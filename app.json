@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Currently",
+    "slug": "currently",
+    "description": "An app to log the books you read, set a reading goal, and track your progress.",
+    "orientation": "portrait",
+    "primaryColor": "#FB4747",
+    "sdkVersion": "27.0.0",
+    "icon": "./assets/currently_icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    }
+  }
+}
